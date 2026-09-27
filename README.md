@@ -1,11 +1,5 @@
 # Statistics in the Sports and Avionics World / Estatística no Mundo Esportivo e Aviônico
 
-> **Repository Description Suggestion / Sugestão de Descrição para o Repositório:**
->
-> *English:* Presentation on data analysis, statistical metrics (Moneyball/MLB, football), and probabilistic investigation in aviation (Air France 447).
->
-> *Português:* Apresentação sobre análise de dados, métricas estatísticas (Moneyball/MLB, futebol) e investigação probabilística na aviação (Air France 447).
-
 ---
 
 ## English Version
